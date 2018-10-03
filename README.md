@@ -26,3 +26,8 @@ sudo killall shutter
 ```
 * Restart Shutter
 * Done. Option must be enabled now.
+### Notes taking app
+**QOwnNotes** Markdown based notes
+```
+sudo apt-get install qownnotes
+```
