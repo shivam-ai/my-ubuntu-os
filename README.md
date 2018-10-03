@@ -10,4 +10,5 @@ List of useful Ubuntu applications
 | | | | ``` sudo apt-get install obs-studio  ``` | None |
 | Screenshot and Editing | Shutter      |  Screenshot and edit it | ``` sudo apt-get install shutter ``` | None |
 | Video Editing | Flowblade | Light and Simple | ``` sudo apt-get install flowblade ``` | None |
+| Code Snippet Manager | Lepton | connected with Gist | ``` sudo apt-get install lepton ``` | None |
  
