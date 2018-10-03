@@ -31,3 +31,10 @@ sudo killall shutter
 ```
 sudo apt-get install qownnotes
 ```
+
+| Function        | Application           | Description  |  Installation  |
+| ------------- |:-------------:|:-----:|-----:|
+| Music      | Amarok | Music player for Ubuntu | ``` sudo apt-get install amarok ``` |
+| Screen Recording      | OBS      |   Ubuntu Screen recorder | ``` sudo apt-get install ffmpeg  ``` |
+| | | | ``` sudo apt-get install obs-studio  ``` |
+| Screenshot and Editing | Shutter      |  Screenshot and edit it | ``` sudo apt-get install shutter ``` |
