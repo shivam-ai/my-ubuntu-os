@@ -11,3 +11,9 @@ List of useful Ubuntu applications
 sudo apt-get install ffmpeg 
 sudo apt-get install obs-studio 
 ```
+
+### Screenshot and editing
+**Shutter**
+```
+sudo apt-get install shutter
+```
